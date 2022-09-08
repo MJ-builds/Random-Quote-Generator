@@ -31,7 +31,7 @@ const quotes = [
  * `getRandomQuote` function - get a random number between 0 and quotes.length
 ***/
 
-/*Unsure whether a separate randomiser function is really is necessary here
+/*Unsure whether a separate randomiser function really is necessary here
 function getRandomNumber(maximum = quotes.length) {
    return Math.floor(Math.random() * maximum);
 }*/
